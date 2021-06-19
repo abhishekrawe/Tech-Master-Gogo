@@ -1,2 +1,2 @@
-# groom-school
-Groom School is an online school for grooming undergraduate or recently graduated students for exploring different career paths, getting a job or building and launching a startup.
+# Tech Master GoGo
+Tech Master Gogo is an online Content Writing Platform for developer .
